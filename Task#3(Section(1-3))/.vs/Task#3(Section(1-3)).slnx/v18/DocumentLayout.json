@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\ORG\\C#\\Task\\Task#3(Section(1-3))\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E759EB7F-D731-D00E-5894-BDB25C280029}|Task#3(Section(1-3))\\Task#3(Section(1-3)).csproj|c:\\users\\user\\onedrive\\desktop\\org\\c#\\task\\task#3(section(1-3))\\task#3(section(1-3))\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E759EB7F-D731-D00E-5894-BDB25C280029}|Task#3(Section(1-3))\\Task#3(Section(1-3)).csproj|solutionrelative:task#3(section(1-3))\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\ORG\\C#\\Task\\Task#3(Section(1-3))\\Task#3(Section(1-3))\\Program.cs",
+              "RelativeDocumentMoniker": "Task#3(Section(1-3))\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\ORG\\C#\\Task\\Task#3(Section(1-3))\\Task#3(Section(1-3))\\Program.cs",
+              "RelativeToolTip": "Task#3(Section(1-3))\\Program.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAAHcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T00:57:58.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
